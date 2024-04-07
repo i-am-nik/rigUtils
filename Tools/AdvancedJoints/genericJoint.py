@@ -1,7 +1,7 @@
 '''
 interpJoint = InterpolationJoint("l_armJAroll_JNT", "l_armJB_JNT", "interpA").create_interpolation_joint()
 '''
-#TODO: Connect Interp Jonint and add bias, etc attrs, cleanup grouping
+#TODO: Connect Interp Joint and add bias, etc attrs, cleanup grouping
 
 import maya.cmds as cmds
 
